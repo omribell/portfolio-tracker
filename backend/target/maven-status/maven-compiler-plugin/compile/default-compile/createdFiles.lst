@@ -1,8 +1,0 @@
-com\omri\backend\repository\StockHoldingRepository.class
-com\omri\backend\BackendApplication.class
-com\omri\backend\controller\HelloController.class
-com\omri\backend\entity\Portfolio.class
-com\omri\backend\entity\StockHolding.class
-com\omri\backend\repository\PortfolioRepository.class
-com\omri\backend\controller\PortfolioController.class
-com\omri\backend\controller\StockHoldingController.class
